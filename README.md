@@ -58,10 +58,13 @@
   <img width="299" alt="image" src="https://github.com/user-attachments/assets/00fd66c1-6370-43f2-a335-760b499faca3">
 
 #### 快速上手
+
 整个库结构分为三层，从下到上分别为**request-imp-axios.ts**，**request-core.ts**，**request-bus.ts**
 <br>
 <br>
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/fc9730db-ed21-4657-9698-fe7ce524d324">
+<br>
+<br>
 其中：
   
  - 在request-core中提供一些接口方法表明需要实现的方法(但是并没有具体实现)
