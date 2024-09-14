@@ -54,11 +54,13 @@
 ### 补充信息：
 
 - 请自行使用nodejs进行服务器的基本配置以确保请求可以顺利的被接收
-- 下面是一个基本的nodejs服务器示例：
+- 下面是一个基本的nodejs服务器示例：<br><br>
   <img width="299" alt="image" src="https://github.com/user-attachments/assets/00fd66c1-6370-43f2-a335-760b499faca3">
 
 #### 快速上手
 整个库结构分为三层，从下到上分别为**request-imp-axios.ts**，**request-core.ts**，**request-bus.ts**
+<br>
+<br>
 <img width="170" alt="image" src="https://github.com/user-attachments/assets/fc9730db-ed21-4657-9698-fe7ce524d324">
 其中：
   
